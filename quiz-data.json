@@ -1,1 +1,914 @@
-
+[
+  {
+    "id": "q1",
+    "question": "Digitalis is cultivated in",
+    "options": ["Andhra Pradesh", "Bihar", "Kashmir", "Kerala"],
+    "correct_answer": "Kashmir",
+    "explanation": "Digitalis purpurea is commercially cultivated in the Kashmir valley due to the favorable temperate climate required for its growth."
+  },
+  {
+    "id": "q2",
+    "question": "Chaulmoogra oil is used as",
+    "options": ["Antileprotic", "Antitussive", "Antibiotic", "Anti-Histaminic"],
+    "correct_answer": "Antileprotic",
+    "explanation": "Chaulmoogra oil contains hydnocarpic and chaulmoogric acids, which possess antileprotic properties used traditionally to treat leprosy."
+  },
+  {
+    "id": "q3",
+    "question": "The family of Bael",
+    "options": ["Gnetaceae", "Rutaceae", "Polygonaceae", "Leguminosae"],
+    "correct_answer": "Rutaceae",
+    "explanation": "Bael (Aegle marmelos) belongs to the Rutaceae family, which is also commonly known as the citrus family."
+  },
+  {
+    "id": "q4",
+    "question": "Lanolin is obtained from",
+    "options": ["Beeswax", "Woolfat", "Hardparaffin", "Bones and Tendons"],
+    "correct_answer": "Woolfat",
+    "explanation": "Lanolin is a waxy substance secreted by the sebaceous glands of wool-bearing animals, commonly extracted from sheep's woolfat."
+  },
+  {
+    "id": "q5",
+    "question": "Pudina contains",
+    "options": ["Camphor", "Menthol", "Thymol", "Terpenes"],
+    "correct_answer": "Menthol",
+    "explanation": "Pudina (Mentha piperita) is highly rich in menthol, which is a volatile oil responsible for its cooling sensation and carminative actions."
+  },
+  {
+    "id": "q6",
+    "question": "Vasaka is used as",
+    "options": ["Carminative", "Flavouring agent", "Expectorant", "Hypnotic"],
+    "correct_answer": "Expectorant",
+    "explanation": "Vasaka contains the alkaloid vasicine, which acts as a powerful bronchodilator and expectorant used to loosen phlegm."
+  },
+  {
+    "id": "q7",
+    "question": "Clove is cultivated in",
+    "options": ["U.S.A", "Zangibar", "China", "West Indies"],
+    "correct_answer": "Zangibar",
+    "explanation": "Zanzibar (often spelled Zangibar in older pharmacy text resources) is one of the world's leading commercial producers of clove."
+  },
+  {
+    "id": "q8",
+    "question": "Urginea contains",
+    "options": ["Glycosides", "Alkaloids", "Hormones", "Vitamins"],
+    "correct_answer": "Glycosides",
+    "explanation": "Urginea (commonly known as Squill) contains cardiac glycosides like scillaren A and B, which exert therapeutic action on the heart."
+  },
+  {
+    "id": "q9",
+    "question": "In a leaf, palisade cells are present in",
+    "options": ["Phloon", "Midrib", "Xylen", "Lamina"],
+    "correct_answer": "Lamina",
+    "explanation": "The palisade mesophyll cells are located right inside the lamina (leaf blade), optimized for capturing light during photosynthesis."
+  },
+  {
+    "id": "q10",
+    "question": "The drug which contains alkaloids",
+    "options": ["Rasna", "Cinchona", "Jatamansi", "Amla"],
+    "correct_answer": "Cinchona",
+    "explanation": "Cinchona bark contains prominent quinoline alkaloids, primarily quinine and quinidine, used as antimalarials and antiarrhythmics."
+  },
+  {
+    "id": "q11",
+    "question": "The family of Ergot",
+    "options": ["Scrophulariaceae", "Berberidaceae", "Labiatae", "Hypocreaceae"],
+    "correct_answer": "Hypocreaceae",
+    "explanation": "Ergot is a dried sclerotium of Claviceps purpurea, a fungus belonging to the Hypocreaceae family (or Clavicipitaceae)."
+  },
+  {
+    "id": "q12",
+    "question": "The common name of cyamopsis tetragonologus",
+    "options": ["Guargum", "Indian gum", "Gum acacia", "Gum tragacanth"],
+    "correct_answer": "Guargum",
+    "explanation": "Cyamopsis tetragonoloba is the scientific plant source used to extract Guar gum, a structural galactomannan polysaccharide."
+  },
+  {
+    "id": "q13",
+    "question": "A drug that belongs to the family of Liliaceae",
+    "options": ["Lemonpeel", "Liquorice", "Linseed", "Lahsun"],
+    "correct_answer": "Lahsun",
+    "explanation": "Lahsun (Garlic / Allium sativum) belongs to the Liliaceae family (alternatively classified under Amaryllidaceae)."
+  },
+  {
+    "id": "q14",
+    "question": "Solanaceous alkaloids are present in",
+    "options": ["Ephedra", "Belladonna", "Cinchona", "Kurchi"],
+    "correct_answer": "Belladonna",
+    "explanation": "Belladonna (Atropa belladonna) contains tropane alkaloids such as atropine and scopolamine, which are classic solanaceous alkaloids."
+  },
+  {
+    "id": "q15",
+    "question": "Kaolin mainly consists of",
+    "options": ["Magnesium silicate", "Aluminium silicate", "Magnesium Phosphate", "Aluminium Phosphate"],
+    "correct_answer": "Aluminium silicate",
+    "explanation": "Kaolin is a naturally occurring hydrated aluminium silicate mineral used as an adsorbent in antidiarrheal formulations."
+  },
+  {
+    "id": "q16",
+    "question": "Example of an umbelliferous fruit",
+    "options": ["Cardamom", "Fennel", "Datura", "Nux-vomica"],
+    "correct_answer": "Fennel",
+    "explanation": "Fennel belongs to the Umbelliferae (Apiaceae) family, characterized by its distinct umbrella-like inflorescence structure."
+  },
+  {
+    "id": "q17",
+    "question": "Pyrethrum is used as",
+    "options": ["Bactericide", "Pesticide", "Fungicide", "Insecticide"],
+    "correct_answer": "Insecticide",
+    "explanation": "Pyrethrum extracts contain pyrethrins, natural organic compounds that target the nervous systems of insects, acting as an insecticide."
+  },
+  {
+    "id": "q18",
+    "question": "Tinnavelly Senna is cultivated in",
+    "options": ["India", "Alexandria", "Russia", "Britain"],
+    "correct_answer": "India",
+    "explanation": "Tinnevelly Senna is widely cultivated in the southern regions of India, specifically around Tamil Nadu."
+  },
+  {
+    "id": "q19",
+    "question": "Turmeric is used as",
+    "options": ["Carminative", "Colouring agent", "purgative", "Rubefacient"],
+    "correct_answer": "Colouring agent",
+    "explanation": "Turmeric contains curcumin, a vivid yellow pigment used widely in pharmaceuticals and food processing as a natural colouring agent."
+  },
+  {
+    "id": "q20",
+    "question": "The taste of cinchona is",
+    "options": ["Sweet", "Sour", "pungent", "Bitter"],
+    "correct_answer": "Bitter",
+    "explanation": "Cinchona bark has an intensely bitter taste due to its high concentration of alkaloids like quinine."
+  },
+  {
+    "id": "q21",
+    "question": "Aswagandha contains",
+    "options": ["Volatile oil", "Alkaloids", "Fixed oil", "proteins"],
+    "correct_answer": "Alkaloids",
+    "explanation": "Ashwagandha (Withania somnifera) contains steroidal alkaloids and lactones known as withanolides."
+  },
+  {
+    "id": "q22",
+    "question": "Lahsun is used as",
+    "options": ["Emetic", "Purgative", "Condiment", "Sweetening agent"],
+    "correct_answer": "Condiment",
+    "explanation": "Lahsun (Garlic) is widely utilized globally as a pungent food condiment alongside its medicinal cardiovascular uses."
+  },
+  {
+    "id": "q23",
+    "question": "Cannabis is also known as",
+    "options": ["Bhung", "opium", "L.S.D", "Male fern"],
+    "correct_answer": "Bhung",
+    "explanation": "Cannabis sativa is traditionally known by local vernacular terms like Bhang or Bhung across the Indian subcontinent."
+  },
+  {
+    "id": "q24",
+    "question": "Aloes contain",
+    "options": ["Emodi", "Aloe-emodin", "Barbaloin", "all of them"],
+    "correct_answer": "all of them",
+    "explanation": "Aloes contain a mixture of anthraquinone derivatives including barbaloin, aloe-emodin, and chrysophanic acid compounds."
+  },
+  {
+    "id": "q25",
+    "question": "Chemically cotton is",
+    "options": ["Cellulose", "Starch", "Glycoside", "Resin"],
+    "correct_answer": "Cellulose",
+    "explanation": "Raw absorbent cotton is composed of approximately 90% pure structural plant cellulose."
+  },
+  {
+    "id": "q26",
+    "question": "Vitamin containing drug",
+    "options": ["Sharkliver oil", "Castor oil", "Beeswax", "Chaulmoogra oil"],
+    "correct_answer": "Sharkliver oil",
+    "explanation": "Shark liver oil serves as an excellent natural therapeutic source rich in Vitamin A."
+  },
+  {
+    "id": "q27",
+    "question": "A drug that belongs to the family Hypocreaceae",
+    "options": ["Dioscorea", "Cantharides", "Ginger", "Ergot"],
+    "correct_answer": "Ergot",
+    "explanation": "Ergot is a product of Claviceps purpurea, a parasitic fungus group classified in the family Hypocreaceae."
+  },
+  {
+    "id": "q28",
+    "question": "Tulsi belongs to the family",
+    "options": ["Apocynaceae", "labiatae", "Gnetaceae", "Liliaceae"],
+    "correct_answer": "labiatae",
+    "explanation": "Tulsi (Ocimum sanctum) belongs to the Labiatae (also known as Lamiaceae) or mint family."
+  },
+  {
+    "id": "q29",
+    "question": "An example of solanaceous alkaloid",
+    "options": ["Quinine", "Atropine", "Morphine", "Pilocarpine"],
+    "correct_answer": "Atropine",
+    "explanation": "Atropine is a tropane alkaloid extracted from solanaceous nightshade species like Atropa belladonna."
+  },
+  {
+    "id": "q30",
+    "question": "The use of Arjuna barks is",
+    "options": ["Cardiac tonic", "Anticancer", "Cardiac stimulant", "Hypnotic"],
+    "correct_answer": "Cardiac tonic",
+    "explanation": "Arjuna bark (Terminalia arjuna) contains useful flavonoids and glycosides used as a cardioprotective cardiac tonic."
+  },
+  {
+    "id": "q31",
+    "question": "Sharkliver oil contains",
+    "options": ["Vitamin-A", "Vitamin D₂", "Vitamin B₁₂", "Vitamin C"],
+    "correct_answer": "Vitamin-A",
+    "explanation": "The primary therapeutic vitamin component extracted in significant yields from shark liver oil matrices is Vitamin-A."
+  },
+  {
+    "id": "q32",
+    "question": "Starch is a",
+    "options": ["Glycoside", "Glucose", "Alkaloid", "Carbohydrate"],
+    "correct_answer": "Carbohydrate",
+    "explanation": "Starch is a classic polysaccharide macromolecule consisting of amylose and amylopectin carbohydrate units."
+  },
+  {
+    "id": "q33",
+    "question": "Ipecac contains",
+    "options": ["Morphine", "Emetine", "Strychnine", "Quinine"],
+    "correct_answer": "Emetine",
+    "explanation": "The root profiles of Ipecac contains emetine and cephaeline isoquinoline alkaloid molecules."
+  },
+  {
+    "id": "q34",
+    "question": "Cannabis acts as",
+    "options": ["C.N.S. Stimulant", "Purgative", "Narcotic sedative", "Cardiac tonic"],
+    "correct_answer": "Narcotic sedative",
+    "explanation": "Cannabis possesses psychoactive cannabinoid systems acting primarily as a narcotic sedative agent."
+  },
+  {
+    "id": "q35",
+    "question": "Vinca is useful as",
+    "options": ["Anti-cancer agent", "Hypnotic agent", "Antispasmodic agent", "Antibiotic drug"],
+    "correct_answer": "Anti-cancer agent",
+    "explanation": "Vinca contains specialized dimeric indole alkaloids like vincristine and vinblastine used in clinical chemotherapy as anti-cancer agents."
+  },
+  {
+    "id": "q36",
+    "question": "Sandal wood is cultivated in",
+    "options": ["France", "India", "Russia", "U.S.A."],
+    "correct_answer": "India",
+    "explanation": "Sandalwood trees (Santalum album) are major indigenous trees grown under structural commercial forestry throughout Southern India."
+  },
+  {
+    "id": "q37",
+    "question": "Amla contains",
+    "options": ["Vitamin C", "Vitamin A", "Vitamin E", "Vitamin K"],
+    "correct_answer": "Vitamin C",
+    "explanation": "Amla (Emblica officinalis) is exceptionally famous for being an extraordinarily rich natural source of ascorbic acid, or Vitamin C."
+  },
+  {
+    "id": "q38",
+    "question": "Coriander belongs to the family",
+    "options": ["Umbelliferae", "Leguminosae", "Apocynaceae", "Lauraceae"],
+    "correct_answer": "Umbelliferae",
+    "explanation": "Coriander fruits originate from Coriandrum sativum, classified directly within the Umbelliferae family."
+  },
+  {
+    "id": "q39",
+    "question": "Cinnamon is mainly cultivated in",
+    "options": ["Ceylon", "China", "Pakistan", "Burma"],
+    "correct_answer": "Ceylon",
+    "explanation": "Ceylon (modern-day Sri Lanka) produces true premium quality cinnamon inner barks globally."
+  },
+  {
+    "id": "q40",
+    "question": "Castor oil is a",
+    "options": ["Volatile Oil", "Wax", "Fixed Oil", "Oleo-resin"],
+    "correct_answer": "Fixed Oil",
+    "explanation": "Castor oil is classified as a fixed vegetable oil, comprised mostly of triglycerides from ricinoleic acid."
+  },
+  {
+    "id": "q41",
+    "question": "Glycyrrhiza is a",
+    "options": ["Fruit", "Bark", "Under ground stolon", "Flower top"],
+    "correct_answer": "Under ground stolon",
+    "explanation": "The official crude drug definitions of liquorice (Glycyrrhiza glabra) consist of dried roots and underground stolon sections."
+  },
+  {
+    "id": "q42",
+    "question": "The active constituents of urginea are",
+    "options": ["Alkaloids", "Glycosides", "Volatile oils", "Amaroils"],
+    "correct_answer": "Glycosides",
+    "explanation": "Urginea is valued specifically for its cardiac active bufadienolide glycosides."
+  },
+  {
+    "id": "q43",
+    "question": "Cassia is also known as",
+    "options": ["African cinnamon", "Ceylon cinnamon", "Indian cinnamon", "Chinese cinnamon"],
+    "correct_answer": "Chinese cinnamon",
+    "explanation": "Cassia bark (Cinnamomum cassia) is widely referred to as Chinese cinnamon in structural commercial trade."
+  },
+  {
+    "id": "q44",
+    "question": "Which alkaloid is used to treat acute gout?",
+    "options": ["Colchicine", "Reserpine", "Quinine", "Atropine"],
+    "correct_answer": "Colchicine",
+    "explanation": "Colchicine is an alkaloid isolated from Colchicum autumnale that reduces inflammation in acute gout attacks."
+  },
+  {
+    "id": "q45",
+    "question": "Rauwolfia serpentina belongs to which family?",
+    "options": ["Apocynaceae", "Solanaceae", "Rubiaceae", "Papaveraceae"],
+    "correct_answer": "Apocynaceae",
+    "explanation": "Rauwolfia belongs to the Apocynaceae family and is a rich source of reserpine."
+  },
+  {
+    "id": "q46",
+    "question": "Opium is obtained from which part of Papaver somniferum?",
+    "options": ["Dried leaves", "Unripe capsules", "Roots", "Seeds"],
+    "correct_answer": "Unripe capsules",
+    "explanation": "Opium is the dried latex obtained by making incisions on the unripe capsules of the opium poppy."
+  },
+  {
+    "id": "q47",
+    "question": "Nux-vomica contains which principal alkaloids?",
+    "options": ["Strychnine and Brucine", "Morphine and Codeine", "Quinine and Quinidine", "Atropine and Scopolamine"],
+    "correct_answer": "Strychnine and Brucine",
+    "explanation": "The seeds of Strychnos nux-vomica contain indole alkaloids, primarily strychnine and brucine."
+  },
+  {
+    "id": "q48",
+    "question": "What is the biological source of True Senna?",
+    "options": ["Cassia acutifolia", "Cassia angustifolia", "Cassia obovata", "Cassia fistula"],
+    "correct_answer": "Cassia acutifolia",
+    "explanation": "Alexandrian Senna is obtained from Cassia acutifolia, while Tinnevelly Senna comes from Cassia angustifolia."
+  },
+  {
+    "id": "q49",
+    "question": "Which test is used for the identification of Anthraquinone Glycosides?",
+    "options": ["Borntrager test", "Legal test", "Mayer's test", "Killer-Kiliani test"],
+    "correct_answer": "Borntrager test",
+    "explanation": "The Borntrager test produces a pink or red color in the ammonia layer for anthraquinone structures."
+  },
+  {
+    "id": "q50",
+    "question": "Cardamom belongs to which family?",
+    "options": ["Zingiberaceae", "Umbelliferae", "Solanaceae", "Liliaceae"],
+    "correct_answer": "Zingiberaceae",
+    "explanation": "Cardamom (Elettaria cardamomum) belongs to the ginger family, Zingiberaceae."
+  },
+    {
+    "id": "q51",
+    "question": "Digitalis leaves contain which special cell structures?",
+    "options": ["Anomocytic stomata", "Paracytic stomata", "Diacytic stomata", "Anisocytic stomata"],
+    "correct_answer": "Anomocytic stomata",
+    "explanation": "Digitalis leaves feature characteristic anomocytic (irregular-celled) stomata under microscopic review."
+  },
+  {
+    "id": "q52",
+    "question": "Black mustard seeds contain which glycoside?",
+    "options": ["Sinigrin", "Sinalbin", "Amygdalin", "Prunasin"],
+    "correct_answer": "Sinigrin",
+    "explanation": "Black mustard contains sinigrin, which hydrolyzes via myrosin enzymes into volatile mustard oil."
+  },
+  {
+    "id": "q53",
+    "question": "Which of the following is an example of an unorganized drug?",
+    "options": ["Aloe juice", "Digitalis leaf", "Cinchona bark", "Nux-vomica seed"],
+    "correct_answer": "Aloe juice",
+    "explanation": "Unorganized drugs are direct juices, extracts, or secretions that lack true cellular plant architecture."
+  },
+  {
+    "id": "q54",
+    "question": "Lanolin is used in the preparation of",
+    "options": ["Injections", "Tablets", "Ointments", "Capsules"],
+    "correct_answer": "Ointments",
+    "explanation": "Lanolin is an excellent water-in-oil emollient emulsifying base used to prepare skin ointments."
+  },
+  {
+    "id": "q55",
+    "question": "Aloes is used as",
+    "options": ["Cardiac tonic", "Sedative", "Hypnotic", "Purgative"],
+    "correct_answer": "Purgative",
+    "explanation": "Aloes contain strong anthraquinone C-glycosides that stimulate bowel movements, functioning clinically as a purgative."
+  },
+  {
+    "id": "q56",
+    "question": "Fennel belongs to the family",
+    "options": ["Compositae", "Umbelliferae", "Scrophulariaceae", "Simarubaceae"],
+    "correct_answer": "Umbelliferae",
+    "explanation": "Fennel (Foeniculum vulgare) is a key aromatic utility drug belonging to the Umbelliferae family."
+  },
+  {
+    "id": "q57",
+    "question": "Bees wax is a",
+    "options": ["Animal wax", "Vegetable wax", "Mineral wax", "Synthetic wax"],
+    "correct_answer": "Animal wax",
+    "explanation": "Beeswax is a natural lipid substance secreted explicitly by worker honeybees, classifying it as an animal wax."
+  },
+  {
+    "id": "q58",
+    "question": "Ipecac is used in",
+    "options": ["Purgative", "Cardiotonic", "Amoebic dysentry cure", "Stimulant"],
+    "correct_answer": "Amoebic dysentry cure",
+    "explanation": "The primary alkaloid emetine blocks protein synthesis in amoebae, serving as an effective amoebic dysentry cure."
+  },
+  {
+    "id": "q59",
+    "question": "Astragalus gummifera is the botanical name of",
+    "options": ["Tragacanth", "Senna", "Asafoetida", "Copaiba"],
+    "correct_answer": "Tragacanth",
+    "explanation": "Tragacanth gum is obtained as a gummy exudate from the plant species Astragalus gummifera."
+  },
+  {
+    "id": "q60",
+    "question": "Colophony is a",
+    "options": ["Ester resin", "Gum resin", "Resin alcohol", "Resin"],
+    "correct_answer": "Resin",
+    "explanation": "Colophony (Rosin) is the solid residue fraction composed primarily of abietic acid resin left after distilling pine turpentine."
+  },
+  {
+    "id": "q61",
+    "question": "An Oxytocic drug",
+    "options": ["Ipecac", "Ergot", "Rauwolia", "Shark liver oil"],
+    "correct_answer": "Ergot",
+    "explanation": "Ergot contains ergonovine, which stimulates uterine contractions and functions as an oxytocic drug."
+  },
+  {
+    "id": "q62",
+    "question": "Eugenol is present in",
+    "options": ["Linseed", "Nuxvomica", "Clove", "Fennel"],
+    "correct_answer": "Clove",
+    "explanation": "Clove oil consists of up to 85% eugenol, which gives it its characteristic local anesthetic and antiseptic dental properties."
+  },
+  {
+    "id": "q63",
+    "question": "Mayer's reagent is used to identify",
+    "options": ["Glycosides", "Resins", "Alkaloids", "Carbohydrates"],
+    "correct_answer": "Alkaloids",
+    "explanation": "Mayer's reagent (potassium mercuric iodide) forms a creamy white precipitate when reacting with alkaloids."
+  },
+  {
+    "id": "q64",
+    "question": "An example of phenanthracene alkaloid is",
+    "options": ["Cardamom", "Cinchona", "Ergot", "Morphine"],
+    "correct_answer": "Morphine",
+    "explanation": "Morphine is an opium poppy alkaloid featuring a signature phenanthrene core structure."
+  },
+  {
+    "id": "q65",
+    "question": "Anthracene glycosides are present in",
+    "options": ["Digitalis", "Senna", "Ipecac", "Liquorice"],
+    "correct_answer": "Senna",
+    "explanation": "Senna contains sennosides A and B, which are dimer anthracene glycosides that exert laxative properties."
+  },
+  {
+    "id": "q66",
+    "question": "Which chemical test is specific for identifying Purine Alkaloids like caffeine?",
+    "options": ["Murexide test", "Vitali-Morin test", "Thalleioquin test", "Shinoda test"],
+    "correct_answer": "Murexide test",
+    "explanation": "The Murexide test treats sample compounds with potassium chlorate and HCl, developing a purple hue characteristic of purines."
+  },
+  {
+    "id": "q67",
+    "question": "Ginger belongs to which family?",
+    "options": ["Zingiberaceae", "Lauraceae", "Myrtaceae", "Piperaceae"],
+    "correct_answer": "Zingiberaceae",
+    "explanation": "Ginger (Zingiber officinale) belongs directly to the family Zingiberaceae."
+  },
+  {
+    "id": "q68",
+    "question": "Asafoetida is classified structurally as a:",
+    "options": ["Oleogum resin", "Acid resin", "Balsam", "Pure volatile oil"],
+    "correct_answer": "Oleogum resin",
+    "explanation": "Asafoetida is an oleogum resin exudate gathered from incisions made on Ferula foetida roots."
+  },
+  {
+    "id": "q69",
+    "question": "The principal chemical constituent of Liquorice is:",
+    "options": ["Glycyrrhizin", "Ginsenoside", "Digitoxin", "Sennoside"],
+    "correct_answer": "Glycyrrhizin",
+    "explanation": "Glycyrrhizin is a sweet-tasting triterpenoid saponin glycoside found inside liquorice roots."
+  },
+  {
+    "id": "q70",
+    "question": "Which plant provides a natural treatment for localized malaria?",
+    "options": ["Cinchona", "Artemisia", "Both of them", "None of them"],
+    "correct_answer": "Both of them",
+    "explanation": "Cinchona produces quinine, and Artemisia annua yields artemisinin—both of which are highly potent clinical antimalarial compounds."
+  },
+  {
+    "id": "q71",
+    "question": "Which plant yields reserpine used for treating hypertension?",
+    "options": ["Rauwolfia serpentina", "Catharanthus roseus", "Atropa belladonna", "Digitalis lanata"],
+    "correct_answer": "Rauwolfia serpentina",
+    "explanation": "Rauwolfia serpentina (Indian Snakeroot) contains reserpine, an indole alkaloid that reduces blood pressure."
+  },
+  {
+    "id": "q72",
+    "question": "The Vitali-Morin color chemical test evaluates for:",
+    "options": ["Tropane alkaloids", "Quinoline alkaloids", "Steroids", "Flavonoids"],
+    "correct_answer": "Tropane alkaloids",
+    "explanation": "Fuming nitric acid and acetone-potassium hydroxide mixtures react with tropane structures to give a deep violet tone."
+  },
+  {
+    "id": "q73",
+    "question": "Which type of calcium oxalate crystals are typically found in Senna leaves?",
+    "options": ["Prismatic crystals", "Cluster crystals", "Acicular needles", "Microsphenoidal sands"],
+    "correct_answer": "Prismatic crystals",
+    "explanation": "Senna contains distinctive prismatic crystals framing a crystal sheath alongside structural non-glandular trichomes."
+  },
+  {
+    "id": "q74",
+    "question": "What is the key chemical agent found in the Shinoda test?",
+    "options": ["Magnesium turnings and HCl", "Modified Dragendorff reagent", "Bromine water", "Glacial acetic acid"],
+    "correct_answer": "Magnesium turnings and HCl",
+    "explanation": "The Shinoda test evaluates for flavonoids by adding magnesium metal ribbon fragments and concentrated HCl to produce a red color."
+  },
+  {
+    "id": "q75",
+    "question": "What is the botanical source of Cochineal?",
+    "options": ["Dactylopius coccus", "Cantharis vesicatoria", "Apis mellifera", "Gelidium amansii"],
+    "correct_answer": "Dactylopius coccus",
+    "explanation": "Cochineal is a natural crimson dye gathered from the dried bodies of female Dactylopius coccus insects."
+  },
+  {
+    "id": "q76",
+    "question": "Which structural element is shared across all cardiac glycoside structures?",
+    "options": ["Steroid nucleus", "Tropane frame", "Phenanthrene core", "Isoquinoline ring"],
+    "correct_answer": "Steroid nucleus",
+    "explanation": "Cardiac glycosides contain a cyclopentanoperhydrophenanthrene (steroid) nucleus attached to an unsaturated lactone ring."
+  },
+  {
+    "id": "q77",
+    "question": "Which family includes the therapeutic plant species Datura stramonium?",
+    "options": ["Solanaceae", "Rubiaceae", "Papaveraceae", "Labiatae"],
+    "correct_answer": "Solanaceae",
+    "explanation": "Datura belongs to the nightshade or Solanaceae family, sharing tropane profile properties with belladonna."
+  },
+  {
+    "id": "q78",
+    "question": "Which oil forms a solid mass when cooled down below 15 degrees Celsius?",
+    "options": ["Anise oil", "Castor oil", "Clove oil", "Coriander oil"],
+    "correct_answer": "Anise oil",
+    "explanation": "Anise oil contains high levels of anethole, which crystallizes out at lower temperatures."
+  },
+  {
+    "id": "q79",
+    "question": "What primary therapeutic property defines the drug Podophyllum?",
+    "options": ["Purgative and Antimitotic", "Cardiotonic", "Expectorant", "Analgesic"],
+    "correct_answer": "Purgative and Antimitotic",
+    "explanation": "Podophyllum resin acts as a drastic purgative and contains podophyllotoxin, which blocks mitosis."
+  },
+  {
+    "id": "q80",
+    "question": "Balsam of Peru is obtained from which botanical source?",
+    "options": ["Myroxylon balsamum", "Myroxylon pereirae", "Styrax benzoin", "Liquidambar orientalis"],
+    "correct_answer": "Myroxylon pereirae",
+    "explanation": "Balsam of Peru is collected from the scorched trunks of Myroxylon balsamum var. pereirae."
+  },
+  {
+    "id": "q81",
+    "question": "Which test distinguishes true Madagascar Vinca alkaloids cleanly?",
+    "options": ["Vanillin-HCl test", "Keller-Kiliani test", "Borntrager test", "Murexide test"],
+    "correct_answer": "Vanillin-HCl test",
+    "explanation": "Vanillin-HCl reagent produces a distinct pinkish-purple color reaction with indole rings like vinblastine."
+  },
+  {
+    "id": "q82",
+    "question": "Nutmeg is derived from which plant part of Myristica fragrans?",
+    "options": ["Dried kernel", "Dried arillus", "Fleshy pericarp", "Stem bark"],
+    "correct_answer": "Dried kernel",
+    "explanation": "Nutmeg is the dried seed kernel, while the lacy reddish-orange wrapping around it provides Mace."
+  },
+  {
+    "id": "q83",
+    "question": "Capsicum belongs to which plant family?",
+    "options": ["Solanaceae", "Piperaceae", "Zingiberaceae", "Lauraceae"],
+    "correct_answer": "Solanaceae",
+    "explanation": "Capsicum species belong to the Solanaceae family and contain capsaicin, which gives them their hot, pungent taste."
+  },
+  {
+    "id": "q84",
+    "question": "Which functional type of tannin gives a blue-black precipitate with ferric chloride?",
+    "options": ["Hydrolyzable tannins", "Condensed tannins", "Pseudotannins", "Complex tannins"],
+    "correct_answer": "Hydrolyzable tannins",
+    "explanation": "Hydrolyzable tannins yield blue-black colors with ferric chloride, while condensed types form brownish-green compounds."
+  },
+  {
+    "id": "q85",
+    "question": "The primary component of volatile clove oil that gives it an authentic aroma is:",
+    "options": ["Eugenol", "Anethole", "Cineole", "Menthol"],
+    "correct_answer": "Eugenol",
+    "explanation": "Eugenol makes up the majority of clove oil, providing local antiseptic and analgesic action for toothaches."
+  },
+  {
+    "id": "q86",
+    "question": "What is the primary commercial source of natural rubber?",
+    "options": ["Hevea brasiliensis", "Ficus elastica", "Carica papaya", "Manihot esculenta"],
+    "correct_answer": "Hevea brasiliensis",
+    "explanation": "Hevea brasiliensis is the primary commercial source of natural rubber latex."
+  },
+  {
+    "id": "q87",
+    "question": "Which alkaloid serves as a direct antidote for atropine poisoning?",
+    "options": ["Pilocarpine", "Physostigmine", "Morphine", "Nicotine"],
+    "correct_answer": "Physostigmine",
+    "explanation": "Physostigmine is a reversible acetylcholinesterase inhibitor that crosses the blood-brain barrier to reverse anticholinergic toxicity."
+  },
+  {
+    "id": "q88",
+    "question": "What color is produced by Pale Catechu during a Gambier fluorescein test?",
+    "options": ["Bright green fluorescence", "Deep crimson red", "Inky blue tint", "No active change"],
+    "correct_answer": "Bright green fluorescence",
+    "explanation": "Pale catechu contains petroleum ether soluble components that emit a distinct green fluorescence when mixed with sodium hydroxide."
+  },
+  {
+    "id": "q89",
+    "question": "Which of the following contains bitter glycosides called gentiopicrin?",
+    "options": ["Gentian root", "Digitalis leaf", "Senna leaf", "Cinchona bark"],
+    "correct_answer": "Gentian root",
+    "explanation": "Gentian contains intensely bitter secoiridoid glycosides like gentiopicrin, used to stimulate appetite."
+  },
+  {
+    "id": "q90",
+    "question": "The botanical name of true English Foxglove is:",
+    "options": ["Digitalis purpurea", "Digitalis lanata", "Digitalis lutea", "Digitalis thapsi"],
+    "correct_answer": "Digitalis purpurea",
+    "explanation": "Digitalis purpurea is Purple Foxglove, whereas Digitalis lanata provides Woolly Foxglove."
+  },
+  {
+    "id": "q91",
+    "question": "Which parameter evaluates the amount of residual moisture left in crude herbal drugs?",
+    "options": ["Loss on drying", "Total ash value", "Acid-insoluble ash", "Sulphated ash"],
+    "correct_answer": "Loss on drying",
+    "explanation": "Loss on drying determines the total amount of water and volatile matter driven off under specific heating protocols."
+  },
+  {
+    "id": "q92",
+    "question": "What classification group includes standard Tragacanth gum?",
+    "options": ["Carbohydrate", "Glycoside", "Alkaloid", "Resin complex"],
+    "correct_answer": "Carbohydrate",
+    "explanation": "Tragacanth is a natural complex branching polysaccharide composed of bassorin and tragacanthin sugar complexes."
+  },
+  {
+    "id": "q93",
+    "question": "What color develops when applying iodine solution directly over pure starch structures?",
+    "options": ["Deep blue", "Bright yellow", "Emerald green", "Brick red"],
+    "correct_answer": "Deep blue",
+    "explanation": "Iodine fits inside the helical structure of amylose in starch, creating a dark blue coordination complex."
+  },
+  {
+    "id": "q94",
+    "question": "Which diagnostic element detects the presence of light mineral adulterants inside plant materials?",
+    "options": ["Acid-insoluble ash value", "Crude fiber content", "Alcohol-soluble extractive", "Water-soluble ash"],
+    "correct_answer": "Acid-insoluble ash value",
+    "explanation": "Acid-insoluble ash measures sand, silica, and dirt particles left behind after digesting the ash with hydrochloric acid."
+  },
+  {
+    "id": "q95",
+    "question": "What structural element characterizes the volatile oils found in Umbelliferous fruits?",
+    "options": ["Schizogenous channels", "Lysigenous cavities", "Glandular trichomes", "Modified guard cells"],
+    "correct_answer": "Schizogenous channels",
+    "explanation": "Umbelliferous fruits contain specialized longitudinal oil ducts called vittae, which form through schizogenous cell separation."
+  },
+  {
+    "id": "q96",
+    "question": "What diagnostic cell feature helps identify structural powdered Cinnamon bark?",
+    "options": ["Sclereids and stone cells", "Laticiferous vessels", "Wavy epidermal cells", "Anisocytic stomata pairs"],
+    "correct_answer": "Sclereids and stone cells",
+    "explanation": "Cinnamon bark powder shows characteristic lignified stone cells with U-shaped thickening patterns under a microscope."
+  },
+  {
+    "id": "q97",
+    "question": "Which reagent stains lignified plant cell walls bright red?",
+    "options": ["Phloroglucinol + HCl", "Iodine solution", "Sudar Red III", "Mayer's reagent"],
+    "correct_answer": "Phloroglucinol + HCl",
+    "explanation": "Phloroglucinol combines with concentrated hydrochloric acid to stain complex plant lignin structures a brilliant red or pink color."
+  },
+  {
+    "id": "q98",
+    "question": "What compound gives Asafoetida its strong, garlic-like odor?",
+    "options": ["Organic sulfur compounds", "Cineole volatile traces", "Anethole structures", "Pure benzoic acid"],
+    "correct_answer": "Organic sulfur compounds",
+    "explanation": "Asafoetida contains volatile disulfide molecules that produce its distinct, pungent sulfurous aroma."
+  },
+  {
+    "id": "q99",
+    "question": "Which family includes the anti-asthmatic plant drug Ephedra sinica?",
+    "options": ["Ephedraceae", "Gnetaceae", "Coniferae", "Pinaceae"],
+    "correct_answer": "Ephedraceae",
+    "explanation": "Ephedra belongs to the gymnosperm family Ephedraceae and yields the sympathomimetic alkaloid ephedrine."
+  },
+  {
+    "id": "q100",
+    "question": "Balsam of Tolu is used as",
+    "options": ["Stimulant", "Cardiac tonic", "Expectorant", "Astringent"],
+    "correct_answer": "Expectorant",
+    "explanation": "Balsam of Tolu contains cinnamic and benzoic acids, acting as an ingredient in cough syrups due to its expectorant effects."
+  },
+    {
+    "id": "q101",
+    "question": "Vincristine is used in the treatment of",
+    "options": ["Gout", "Asthma", "Leukaemnia", "Epilepsy"],
+    "correct_answer": "Leukaemnia",
+    "explanation": "Vincristine prevents mitotic spindle formation in leukemia cells, making it crucial for leukemia chemotherapy treatments."
+  },
+  {
+    "id": "q102",
+    "question": "Indian Saffron is",
+    "options": ["Ginger", "Ipecae", "Turmeric", "Rhubarb"],
+    "correct_answer": "Turmeric",
+    "explanation": "Turmeric is commonly known by the synonym Indian Saffron owing to its deep golden-yellow color profile."
+  },
+  {
+    "id": "q103",
+    "question": "Neem is used as",
+    "options": ["Antiseptic", "Purgative", "Diuretic", "Astringent"],
+    "correct_answer": "Antiseptic",
+    "explanation": "Neem contains azadirachtin and other bitter compounds providing active broad antimicrobial and antiseptic properties."
+  },
+  {
+    "id": "q104",
+    "question": "Papain is",
+    "options": ["Protein", "Carbohydrate", "Proteolytic enzyme", "Hormone"],
+    "correct_answer": "Proteolytic enzyme",
+    "explanation": "Papain is extracted from green papaya latex fruit surfaces and functions specifically as a proteolytic (protein-cleaving) enzyme."
+  },
+  {
+    "id": "q105",
+    "question": "Mel is",
+    "options": ["Castor oil", "Linseed oil", "Honey", "Shark liver oil"],
+    "correct_answer": "Honey",
+    "explanation": "Mel is the official Latin pharmacognostical term designating purified honey."
+  },
+  {
+    "id": "q106",
+    "question": "Agar is used as an",
+    "options": ["Emetic", "Emulsifying agent", "Emollient", "None of the above"],
+    "correct_answer": "Emulsifying agent",
+    "explanation": "Agar is a mucilaginous phycocolloid polysaccharide utilized as a stabilizing gel and emulsifying agent."
+  },
+  {
+    "id": "q107",
+    "question": "Pectin is used in",
+    "options": ["Asthma", "Diarrhoea", "Hypertension", "Cancer"],
+    "correct_answer": "Diarrhoea",
+    "explanation": "Pectin is an adsorbent structural polysaccharide used extensively in formulations to manage acute diarrhea symptoms."
+  },
+  {
+    "id": "q108",
+    "question": "Nicotine is present in",
+    "options": ["Tobacco", "Ipecac", "Belladonna", "Tulsi"],
+    "correct_answer": "Tobacco",
+    "explanation": "Nicotine is a potent liquid pyridine-pyrrolidine alkaloid found abundantly within tobacco leaves."
+  },
+  {
+    "id": "q109",
+    "question": "Cotton is used as",
+    "options": ["Filtering medium", "Suspending agent", "Emollient", "None of the above"],
+    "correct_answer": "Filtering medium",
+    "explanation": "Absorbent cotton is chemically sterile and structured effectively for deployment as a surgical filtering medium."
+  },
+  {
+    "id": "q110",
+    "question": "Animal fibre is",
+    "options": ["Hemp", "Flax", "Jute", "Silk"],
+    "correct_answer": "Silk",
+    "explanation": "Silk is a natural protein fibroin filament spun by Bombyx mori silkworms, classifying it as an animal fibre."
+  },
+  {
+    "id": "q111",
+    "question": "An example of plant fibre",
+    "options": ["Jute", "Silk", "Glass", "Nylon"],
+    "correct_answer": "Jute",
+    "explanation": "Jute consists of plant phloem/bast fiber complexes, making it a classic plant fiber specimen."
+  },
+  {
+    "id": "q112",
+    "question": "Peri winkle is",
+    "options": ["Cassia", "Vinca", "Kurchi", "Datura"],
+    "correct_answer": "Vinca",
+    "explanation": "Madagascar Periwinkle is the common name reference for Catharanthus roseus, scientifically termed Vinca."
+  },
+  {
+    "id": "q113",
+    "question": "Asbestos is",
+    "options": ["Plant fibre", "Animal fibre", "Mineral fibre", "Synthetic fibre"],
+    "correct_answer": "Mineral fibre",
+    "explanation": "Asbestos is composed of naturally occurring silicate mineral crystal aggregates, qualifying as a mineral fibre."
+  },
+  {
+    "id": "q114",
+    "question": "An example of synthetic fibre",
+    "options": ["Glass", "Silk", "Hemp", "Terylene"],
+    "correct_answer": "Terylene",
+    "explanation": "Terylene is a fully synthetic polyester fiber polymer manufactured via industrial chemical synthesis channels."
+  },
+  {
+    "id": "q115",
+    "question": "Antidiabetic drug is",
+    "options": ["Neem", "Gymnema", "Colchicum", "Belladonna"],
+    "correct_answer": "Gymnema",
+    "explanation": "Gymnema sylvestre (Gurmar) contains gymnemic acids that block sugar receptors, acting as a natural antidiabetic drug."
+  },
+    {
+    "id": "q116",
+    "question": "Which of the following is known as 'Ma-Huang'?",
+    "options": ["Ephedra", "Vinca", "Cinchona", "Digitalis"],
+    "correct_answer": "Ephedra",
+    "explanation": "Ma-Huang is the traditional Chinese name for Ephedra, which has been used for centuries to treat respiratory ailments."
+  },
+  {
+    "id": "q117",
+    "question": "The major chemical constituent of Garlic responsible for its odor is:",
+    "options": ["Alliin", "Allicin", "Ajoene", "Allel"],
+    "correct_answer": "Allicin",
+    "explanation": "When garlic is crushed, the enzyme alliinase converts alliin into allicin, which gives garlic its characteristic pungent odor."
+  },
+  {
+    "id": "q118",
+    "question": "Which plant family does Ginseng belong to?",
+    "options": ["Araliaceae", "Solanaceae", "Zingiberaceae", "Liliaceae"],
+    "correct_answer": "Araliaceae",
+    "explanation": "Ginseng (Panax ginseng) belongs to the Araliaceae family and is widely used as an adaptogen to improve stamina."
+  },
+  {
+    "id": "q119",
+    "question": "The structural classification of Guggul is a:",
+    "options": ["Oleogum resin", "Acid resin", "Glycoresin", "Balsam"],
+    "correct_answer": "Oleogum resin",
+    "explanation": "Guggul is an oleogum resin obtained from Commiphora mukul, highly valued for its lipid-lowering properties."
+  },
+  {
+    "id": "q120",
+    "question": "Which alkaloid is isolated from Colchicum autumnale?",
+    "options": ["Colchicine", "Vincristine", "Reserpine", "Quinine"],
+    "correct_answer": "Colchicine",
+    "explanation": "Colchicine is an amino alkaloid obtained from Colchicum autumnale seeds, primarily used to treat acute gout attacks."
+  },
+  {
+    "id": "q121",
+    "question": "Which of the following is a structural source of marine-derived agar?",
+    "options": ["Gelidium amansii", "Chondrus crispus", "Fucus vesiculosus", "Laminaria digitata"],
+    "correct_answer": "Gelidium amansii",
+    "explanation": "Agar is a hydrophilic colloidal polysaccharide extracted from red algae, primarily Gelidium amansii."
+  },
+  {
+    "id": "q122",
+    "question": "Which plant is known as 'The King of Bitters'?",
+    "options": ["Andrographis paniculata", "Tinospora cordifolia", "Aloe vera", "Azadirachta indica"],
+    "correct_answer": "Andrographis paniculata",
+    "explanation": "Andrographis paniculata (Kalmegh) is traditionally called the King of Bitters due to its intensely bitter taste and hepatoprotective properties."
+  },
+  {
+    "id": "q123",
+    "question": "The swelling index is predominantly used to evaluate the quality of:",
+    "options": ["Isapgol seeds", "Senna leaves", "Cinchona bark", "Nux-vomica seeds"],
+    "correct_answer": "Isapgol seeds",
+    "explanation": "The swelling index evaluates the mucilage content and quality of swelling drugs like Isapgol (Plantago ovata)."
+  },
+  {
+    "id": "q124",
+    "question": "Which test yields a red color with saponin glycosides?",
+    "options": ["Blood hemolysis test", "Froth test", "Both of them", "None of them"],
+    "correct_answer": "Both of them",
+    "explanation": "Saponins cause hemolysis of red blood cells and produce a persistent thick froth when shaken vigorously with water."
+  },
+  {
+    "id": "q125",
+    "question": "Which diagnostic feature characterizes the macroscopic layout of Senna leaves?",
+    "options": ["Asymmetrical base", "Symmetrical base", "Entire apex", "Obtuse apex"],
+    "correct_answer": "Asymmetrical base",
+    "explanation": "Senna leaflets are distinguished macroscopically by a distinctly asymmetrical lamina base."
+  },
+  {
+    "id": "q126",
+    "question": "Which of the following is a rich source of proteolytic enzyme derived from plants?",
+    "options": ["Bromelain", "Pepsin", "Trypsin", "Pancreatin"],
+    "correct_answer": "Bromelain",
+    "explanation": "Bromelain is a proteolytic enzyme complex extracted from the stems and fruit juices of pineapples (Ananas comosus)."
+  },
+  {
+    "id": "q127",
+    "question": "What is the primary therapeutic use of Taxol?",
+    "options": ["Antineoplastic", "Antihypertensive", "Antidiabetic", "Antimalarial"],
+    "correct_answer": "Antineoplastic",
+    "explanation": "Taxol (Paclitaxel), isolated from the Pacific Yew tree, is a potent antineoplastic agent used widely in cancer chemotherapy."
+  },
+  {
+    "id": "q128",
+    "question": "Which plant provides a rich natural source of reserpine?",
+    "options": ["Rauwolfia serpentina", "Catharanthus roseus", "Conium maculatum", "Nicotiana tabacum"],
+    "correct_answer": "Rauwolfia serpentina",
+    "explanation": "Rauwolfia serpentina (Indian Snakeroot) roots contain reserpine, an indole alkaloid used to manage hypertension."
+  },
+  {
+    "id": "q129",
+    "question": "Which test evaluates for the presence of steroidal structures?",
+    "options": ["Liebermann-Burchard test", "Mayer's test", "Shinoda test", "Murexide test"],
+    "correct_answer": "Liebermann-Burchard test",
+    "explanation": "The Liebermann-Burchard test treats steroidal or triterpenoidal structures to produce a characteristic green color transition."
+  },
+  {
+    "id": "q130",
+    "question": "Which family includes the therapeutic plant species Piper nigrum?",
+    "options": ["Piperaceae", "Lauraceae", "Myrtaceae", "Solanaceae"],
+    "correct_answer": "Piperaceae",
+    "explanation": "Black pepper (Piper nigrum) belongs to the Piperaceae family and contains the pungent alkaloid piperine."
+  }
+  
+  
+]
