@@ -1,5 +1,5 @@
 [
-  {
+  
     "id": "q1",
     "question": "Digitalis is cultivated in",
     "options": ["Andhra Pradesh", "Bihar", "Kashmir", "Kerala"],
@@ -205,7 +205,7 @@
   {
     "id": "q30",
     "question": "The use of Arjuna barks is",
-    "options": ["Cardiac tonic", "Anticancer", "Cardiac stimulant", "Hypotensive"],
+    "options": ["Cardiac tonic", "Anticancer", "Cardiac stimulant", "Hypnotic"],
     "correct_answer": "Cardiac tonic",
     "explanation": "Arjuna bark (Terminalia arjuna) contains useful flavonoids and glycosides used as a cardioprotective cardiac tonic."
   },
@@ -240,7 +240,7 @@
   {
     "id": "q35",
     "question": "Vinca is useful as",
-    "options": ["Anti-cancer agent", "Hypotensive agent", "Antispasmodic agent", "Antibiotic drug"],
+    "options": ["Anti-cancer agent", "Hypnotic agent", "Antispasmodic agent", "Antibiotic drug"],
     "correct_answer": "Anti-cancer agent",
     "explanation": "Vinca contains specialized dimeric indole alkaloids like vincristine and vinblastine used in clinical chemotherapy as anti-cancer agents."
   },
@@ -289,7 +289,7 @@
   {
     "id": "q42",
     "question": "The active constituents of urginea are",
-    "options": ["alkaloids", "Glycosides", "Volatileoils", "Amaroils"],
+    "options": ["Alkaloids", "Glycosides", "Volatile oils", "Amaroils"],
     "correct_answer": "Glycosides",
     "explanation": "Urginea is valued specifically for its cardiac active bufadienolide glycosides."
   },
@@ -299,6 +299,76 @@
     "options": ["African cinnamon", "Ceylon cinnamon", "Indian cinnamon", "Chinese cinnamon"],
     "correct_answer": "Chinese cinnamon",
     "explanation": "Cassia bark (Cinnamomum cassia) is widely referred to as Chinese cinnamon in structural commercial trade."
+  },
+  {
+    "id": "q44",
+    "question": "Which alkaloid is used to treat acute gout?",
+    "options": ["Colchicine", "Reserpine", "Quinine", "Atropine"],
+    "correct_answer": "Colchicine",
+    "explanation": "Colchicine is an alkaloid isolated from Colchicum autumnale that reduces inflammation in acute gout attacks."
+  },
+  {
+    "id": "q45",
+    "question": "Rauwolfia serpentina belongs to which family?",
+    "options": ["Apocynaceae", "Solanaceae", "Rubiaceae", "Papaveraceae"],
+    "correct_answer": "Apocynaceae",
+    "explanation": "Rauwolfia belongs to the Apocynaceae family and is a rich source of reserpine."
+  },
+  {
+    "id": "q46",
+    "question": "Opium is obtained from which part of Papaver somniferum?",
+    "options": ["Dried leaves", "Unripe capsules", "Roots", "Seeds"],
+    "correct_answer": "Unripe capsules",
+    "explanation": "Opium is the dried latex obtained by making incisions on the unripe capsules of the opium poppy."
+  },
+  {
+    "id": "q47",
+    "question": "Nux-vomica contains which principal alkaloids?",
+    "options": ["Strychnine and Brucine", "Morphine and Codeine", "Quinine and Quinidine", "Atropine and Scopolamine"],
+    "correct_answer": "Strychnine and Brucine",
+    "explanation": "The seeds of Strychnos nux-vomica contain indole alkaloids, primarily strychnine and brucine."
+  },
+  {
+    "id": "q48",
+    "question": "What is the biological source of True Senna?",
+    "options": ["Cassia acutifolia", "Cassia angustifolia", "Cassia obovata", "Cassia fistula"],
+    "correct_answer": "Cassia acutifolia",
+    "explanation": "Alexandrian Senna is obtained from Cassia acutifolia, while Tinnevelly Senna comes from Cassia angustifolia."
+  },
+  {
+    "id": "q49",
+    "question": "Which test is used for the identification of Anthraquinone Glycosides?",
+    "opens": ["Borntrager test", "Legal test", "Mayer's test", "Killer-Kiliani test"],
+    "correct_answer": "Borntrager test",
+    "explanation": "The Borntrager test produces a pink or red color in the ammonia layer for anthraquinone structures."
+  },
+  {
+    "id": "q50",
+    "question": "Cardamom belongs to which family?",
+    "options": ["Zingiberaceae", "Umbelliferae", "Solanaceae", "Liliaceae"],
+    "correct_answer": "Zingiberaceae",
+    "explanation": "Cardamom (Elettaria cardamomum) belongs to the ginger family, Zingiberaceae."
+  },
+  {
+    "id": "q51",
+    "question": "Digitalis leaves contain which special cell structures?",
+    "options": ["Anomocytic stomata", "Paracytic stomata", "Diacytic stomata", "Anisocytic stomata"],
+    "correct_answer": "Anomocytic stomata",
+    "explanation": "Digitalis leaves feature characteristic anomocytic (irregular-celled) stomata under microscopic review."
+  },
+  {
+    "id": "q52",
+    "question": "Black mustard seeds contain which glycoside?",
+    "options": ["Sinigrin", "Sinalbin", "Amygdalin", "Prunasin"],
+    "correct_answer": "Sinigrin",
+    "explanation": "Black mustard contains sinigrin, which hydrolyzes via myrosin enzymes into volatile mustard oil."
+  },
+  {
+    "id": "q53",
+    "question": "Which of the following is an example of an unorganized drug?",
+    "options": ["Aloe juice", "Digitalis leaf", "Cinchona bark", "Nux-vomica seed"],
+    "correct_answer": "Aloe juice",
+    "explanation": "Unorganized drugs are direct juices, extracts, or secretions that lack true cellular plant architecture."
   },
   {
     "id": "q54",
@@ -383,6 +453,244 @@
     "options": ["Digitalis", "Senna", "Ipecac", "Liquorice"],
     "correct_answer": "Senna",
     "explanation": "Senna contains sennosides A and B, which are dimer anthracene glycosides that exert laxative properties."
+  },
+  {
+    "id": "q66",
+    "question": "Which chemical test is specific for identifying Purine Alkaloids like caffeine?",
+    "options": ["Murexide test", "Vitali-Morin test", "Thalleioquin test", "Shinoda test"],
+    "correct_answer": "Murexide test",
+    "explanation": "The Murexide test treats sample compounds with potassium chlorate and HCl, developing a purple hue characteristic of purines."
+  },
+  {
+    "id": "q67",
+    "question": "Ginger belongs to which family?",
+    "options": ["Zingiberaceae", "Lauraceae", "Myrtaceae", "Piperaceae"],
+    "correct_answer": "Zingiberaceae",
+    "explanation": "Ginger (Zingiber officinale) belongs directly to the family Zingiberaceae."
+  },
+  {
+    "id": "q68",
+    "question": "Asafoetida is classified structurally as a:",
+    "options": ["Oleogum resin", "Acid resin", "Balsam", "Pure volatile oil"],
+    "correct_answer": "Oleogum resin",
+    "explanation": "Asafoetida is an oleogum resin exudate gathered from incisions made on Ferula foetida roots."
+  },
+  {
+    "id": "q69",
+    "question": "The principal chemical constituent of Liquorice is:",
+    "options": ["Glycyrrhizin", "Ginsenoside", "Digitoxin", "Sennoside"],
+    "correct_answer": "Glycyrrhizin",
+    "explanation": "Glycyrrhizin is a sweet-tasting triterpenoid saponin glycoside found inside liquorice roots."
+  },
+  {
+    "id": "q70",
+    "question": "Which plant provides a natural treatment for localized malaria?",
+    "options": ["Cinchona", "Artemisia", "Both of them", "None of them"],
+    "correct_answer": "Both of them",
+    "explanation": "Cinchona produces quinine, and Artemisia annua yields artemisinin—both of which are highly potent clinical antimalarial compounds."
+  },
+  {
+    "id": "q71",
+    "question": "Which plant yields reserpine used for treating hypertension?",
+    "options": ["Rauwolfia serpentina", "Catharanthus roseus", "Atropa belladonna", "Digitalis lanata"],
+    "correct_answer": "Rauwolfia serpentina",
+    "explanation": "Rauwolfia serpentina (Indian Snakeroot) contains reserpine, an indole alkaloid that reduces blood pressure."
+  },
+  {
+    "id": "q72",
+    "question": "The Vitali-Morin color chemical test evaluates for:",
+    "options": ["Tropane alkaloids", "Quinoline alkaloids", "Steroids", "Flavonoids"],
+    "correct_answer": "Tropane alkaloids",
+    "explanation": "Fuming nitric acid and acetone-potassium hydroxide mixtures react with tropane structures to give a deep violet tone."
+  },
+  {
+    "id": "q73",
+    "question": "Which type of calcium oxalate crystals are typically found in Senna leaves?",
+    "options": ["Prismatic crystals", "Cluster crystals", "Acicular needles", "Microsphenoidal sands"],
+    "correct_answer": "Prismatic crystals",
+    "explanation": "Senna contains distinctive prismatic crystals framing a crystal sheath alongside structural non-glandular trichomes."
+  },
+  {
+    "id": "q74",
+    "question": "What is the key chemical agent found in the Shinoda test?",
+    "options": ["Magnesium turnings and HCl", "Modified Dragendorff reagent", "Bromine water", "Glacial acetic acid"],
+    "correct_answer": "Magnesium turnings and HCl",
+    "explanation": "The Shinoda test evaluates for flavonoids by adding magnesium metal ribbon fragments and concentrated HCl to produce a red color."
+  },
+  {
+    "id": "q75",
+    "question": "What is the botanical source of Cochineal?",
+    "options": ["Dactylopius coccus", "Cantharis vesicatoria", "Apis mellifera", "Gelidium amansii"],
+    "correct_answer": "Dactylopius coccus",
+    "explanation": "Cochineal is a natural crimson dye gathered from the dried bodies of female Dactylopius coccus insects."
+  },
+  {
+    "id": "q76",
+    "question": "Which structural element is shared across all cardiac glycoside structures?",
+    "options": ["Steroid nucleus", "Tropane frame", "Phenanthrene core", "Isoquinoline ring"],
+    "correct_answer": "Steroid nucleus",
+    "explanation": "Cardiac glycosides contain a cyclopentanoperhydrophenanthrene (steroid) nucleus attached to an unsaturated lactone ring."
+  },
+  {
+    "id": "q77",
+    "question": "Which family includes the therapeutic plant species Datura stramonium?",
+    "options": ["Solanaceae", "Rubiaceae", "Papaveraceae", "Labiatae"],
+    "correct_answer": "Solanaceae",
+    "explanation": "Datura belongs to the nightshade or Solanaceae family, sharing tropane profile properties with belladonna."
+  },
+  {
+    "id": "q78",
+    "question": "Which oil forms a solid mass when cooled down below 15 degrees Celsius?",
+    "options": ["Anise oil", "Castor oil", "Clove oil", "Coriander oil"],
+    "correct_answer": "Anise oil",
+    "explanation": "Anise oil contains high levels of anethole, which crystallizes out at lower temperatures."
+  },
+  {
+    "id": "q79",
+    "question": "What primary therapeutic property defines the drug Podophyllum?",
+    "options": ["Purgative and Antimitotic", "Cardiotonic", "Expectorant", "Analgesic"],
+    "correct_answer": "Purgative and Antimitotic",
+    "explanation": "Podophyllum resin acts as a drastic purgative and contains podophyllotoxin, which blocks mitosis."
+  },
+  {
+    "id": "q80",
+    "question": "Balsam of Peru is obtained from which botanical source?",
+    "options": ["Myroxylon balsamum", "Myroxylon pereirae", "Styrax benzoin", "Liquidambar orientalis"],
+    "correct_answer": "Myroxylon pereirae",
+    "explanation": "Balsam of Peru is collected from the scorched trunks of Myroxylon balsamum var. pereirae."
+  },
+  {
+    "id": "q81",
+    "question": "Which test distinguishes true Madagascar Vinca alkaloids cleanly?",
+    "options": ["Vanillin-HCl test", "Keller-Kiliani test", "Borntrager test", "Murexide test"],
+    "correct_answer": "Vanillin-HCl test",
+    "explanation": "Vanillin-HCl reagent produces a distinct pinkish-purple color reaction with indole rings like vinblastine."
+  },
+  {
+    "id": "q82",
+    "question": "Nutmeg is derived from which plant part of Myristica fragrans?",
+    "options": ["Dried kernel", "Dried arillus", "Fleshy pericarp", "Stem bark"],
+    "correct_answer": "Dried kernel",
+    "explanation": "Nutmeg is the dried seed kernel, while the lacy reddish-orange wrapping around it provides Mace."
+  },
+  {
+    "id": "q83",
+    "question": "Capsicum belongs to which plant family?",
+    "options": ["Solanaceae", "Piperaceae", "Zingiberaceae", "Lauraceae"],
+    "correct_answer": "Solanaceae",
+    "explanation": "Capsicum species belong to the Solanaceae family and contain capsaicin, which gives them their hot, pungent taste."
+  },
+  {
+    "id": "q84",
+    "question": "Which functional type of tannin gives a blue-black precipitate with ferric chloride?",
+    "options": ["Hydrolyzable tannins", "Condensed tannins", "Pseudotannins", "Complex tannins"],
+    "correct_answer": "Hydrolyzable tannins",
+    "explanation": "Hydrolyzable tannins yield blue-black colors with ferric chloride, while condensed types form brownish-green compounds."
+  },
+  {
+    "id": "q85",
+    "question": "The primary component of volatile clove oil that gives it an authentic aroma is:",
+    "options": ["Eugenol", "Anethole", "Cineole", "Menthol"],
+    "correct_answer": "Eugenol",
+    "explanation": "Eugenol makes up the majority of clove oil, providing local antiseptic and analgesic action for toothaches."
+  },
+  {
+    "id": "q86",
+    "question": "What is the primary commercial source of natural rubber?",
+    "options": ["Hevea brasiliensis", "Ficus elastica", "Carica papaya", "Manihot esculenta"],
+    "correct_answer": "Hevea brasiliensis",
+    "explanation": "Hevea brasiliensis is the primary commercial source of natural rubber latex."
+  },
+  {
+    "id": "q87",
+    "question": "Which alkaloid serves as a direct antidote for atropine poisoning?",
+    "options": ["Pilocarpine", "Physostigmine", "Morphine", "Nicotine"],
+    "correct_answer": "Physostigmine",
+    "explanation": "Physostigmine is a reversible acetylcholinesterase inhibitor that crosses the blood-brain barrier to reverse anticholinergic toxicity."
+  },
+  {
+    "id": "q88",
+    "question": "What color is produced by Pale Catechu during a Gambier fluorescein test?",
+    "options": ["Bright green fluorescence", "Deep crimson red", "Inky blue tint", "No active change"],
+    "correct_answer": "Bright green fluorescence",
+    "explanation": "Pale catechu contains petroleum ether soluble components that emit a distinct green fluorescence when mixed with sodium hydroxide."
+  },
+  {
+    "id": "q89",
+    "question": "Which of the following contains bitter glycosides called gentiopicrin?",
+    "options": ["Gentian root", "Digitalis leaf", "Senna leaf", "Cinchona bark"],
+    "correct_answer": "Gentian root",
+    "explanation": "Gentian contains intensely bitter secoiridoid glycosides like gentiopicrin, used to stimulate appetite."
+  },
+  {
+    "id": "q90",
+    "question": "The botanical name of true English Foxglove is:",
+    "options": ["Digitalis purpurea", "Digitalis lanata", "Digitalis lutea", "Digitalis thapsi"],
+    "correct_answer": "Digitalis purpurea",
+    "explanation": "Digitalis purpurea is Purple Foxglove, whereas Digitalis lanata provides Woolly Foxglove."
+  },
+  {
+    "id": "q91",
+    "question": "Which parameter evaluates the amount of residual moisture left in crude herbal drugs?",
+    "options": ["Loss on drying", "Total ash value", "Acid-insoluble ash", "Sulphated ash"],
+    "correct_answer": "Loss on drying",
+    "explanation": "Loss on drying determines the total amount of water and volatile matter driven off under specific heating protocols."
+  },
+  {
+    "id": "q92",
+    "question": "What classification group includes standard Tragacanth gum?",
+    "options": ["Carbohydrate", "Glycoside", "Alkaloid", "Resin complex"],
+    "correct_answer": "Carbohydrate",
+    "explanation": "Tragacanth is a natural complex branching polysaccharide composed of bassorin and tragacanthin sugar complexes."
+  },
+  {
+    "id": "q93",
+    "question": "What color develops when applying iodine solution directly over pure starch structures?",
+    "options": ["Deep blue", "Bright yellow", "Emerald green", "Brick red"],
+    "correct_answer": "Deep blue",
+    "explanation": "Iodine fits inside the helical structure of amylose in starch, creating a dark blue coordination complex."
+  },
+  {
+    "id": "q94",
+    "question": "Which diagnostic element detects the presence of light mineral adulterants inside plant materials?",
+    "options": ["Acid-insoluble ash value", "Crude fiber content", "Alcohol-soluble extractive", "Water-soluble ash"],
+    "correct_answer": "Acid-insoluble ash value",
+    "explanation": "Acid-insoluble ash measures sand, silica, and dirt particles left behind after digesting the ash with hydrochloric acid."
+  },
+  {
+    "id": "q95",
+    "question": "What structural element characterizes the volatile oils found in Umbelliferous fruits?",
+    "options": ["Schizogenous channels", "Lysigenous cavities", "Glandular trichomes", "Modified guard cells"],
+    "correct_answer": "Schizogenous channels",
+    "explanation": "Umbelliferous fruits contain specialized longitudinal oil ducts called vittae, which form through schizogenous cell separation."
+  },
+  {
+    "id": "q96",
+    "question": "What diagnostic cell feature helps identify structural powdered Cinnamon bark?",
+    "options": ["Sclereids and stone cells", "Laticiferous vessels", "Wavy epidermal cells", "Anisocytic stomata pairs"],
+    "correct_answer": "Sclereids and stone cells",
+    "explanation": "Cinnamon bark powder shows characteristic lignified stone cells with U-shaped thickening patterns under a microscope."
+  },
+  {
+    "id": "q97",
+    "question": "Which reagent stains lignified plant cell walls bright red?",
+    "options": ["Phloroglucinol + HCl", "Iodine solution", "Sudar Red III", "Mayer's reagent"],
+    "correct_answer": "Phloroglucinol + HCl",
+    "explanation": "Phloroglucinol combines with concentrated hydrochloric acid to stain complex plant lignin structures a brilliant red or pink color."
+  },
+  {
+    "id": "q98",
+    "question": "What compound gives Asafoetida its strong, garlic-like odor?",
+    "options": ["Organic sulfur compounds", "Cineole volatile traces", "Anethole structures", "Pure benzoic acid"],
+    "correct_answer": "Organic sulfur compounds",
+    "explanation": "Asafoetida contains volatile disulfide molecules that produce its distinct, pungent sulfurous aroma."
+  },
+  {
+    "id": "q99",
+    "question": "Which family includes the anti-asthmatic plant drug Ephedra sinica?",
+    "options": ["Ephedraceae", "Gnetaceae", "Coniferae", "Pinaceae"],
+    "correct_answer": "Ephedraceae",
+    "explanation": "Ephedra belongs to the gymnosperm family Ephedraceae and yields the sympathomimetic alkaloid ephedrine."
   },
   {
     "id": "q115",
