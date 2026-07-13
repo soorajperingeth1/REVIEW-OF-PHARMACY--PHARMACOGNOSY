@@ -1,0 +1,197 @@
+:root {
+    --primary: #2b6cb0;
+    --success: #38a169;
+    --danger: #e53e3e;
+    --bg: #f7fafc;
+    --card: #ffffff;
+    --text: #2d3748;
+    --warning: #d69e2e;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.quiz-container {
+    background: var(--card);
+    max-width: 600px;
+    width: 100%;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.header-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.timer-display {
+    background: #edf2f7;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--primary);
+}
+
+.options-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 20px 0;
+}
+
+.option-btn {
+    background: #edf2f7;
+    border: 2px solid transparent;
+    padding: 14px;
+    border-radius: 8px;
+    text-align: left;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.option-btn:hover:not([disabled]) {
+    background: #e2e8f0;
+}
+
+.correct { 
+    background-color: #c6f6d5 !important; 
+    border-color: var(--success); 
+    color: #22543d; 
+}
+
+.incorrect { 
+    background-color: #fed7d7 !important; 
+    border-color: var(--danger); 
+    color: #742a2a; 
+}
+
+.explanation {
+    background: #ebf8ff;
+    padding: 15px;
+    border-left: 4px solid var(--primary);
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.nav-controls {
+    display: flex;
+    gap: 10px;
+}
+
+.nav-btn {
+    background: #e2e8f0;
+    color: var(--text);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.nav-btn:hover {
+    background: #cbd5e0;
+}
+
+.nav-btn.primary-btn {
+    background: var(--primary);
+    color: white;
+}
+
+.nav-btn.primary-btn:hover {
+    background: #2b6cb0dd;
+}
+
+.section-divider {
+    border: 0;
+    border-top: 1px solid #edf2f7;
+    margin: 25px 0 15px 0;
+}
+
+.bulk-actions-container {
+    width: 100%;
+    text-align: center;
+}
+
+.skip-all-btn {
+    background: transparent;
+    color: var(--danger);
+    border: 1px dashed var(--danger);
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    width: 100%;
+    transition: all 0.2s;
+}
+
+.skip-all-btn:hover {
+    background: #fff5f5;
+}
+
+/* Review Lists Extension Setup */
+.review-wrapper {
+    width: 100%;
+    max-height: 400px;
+    overflow-y: auto;
+    text-align: left;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+
+.review-card {
+    background: #f7fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+.correct-tag {
+    color: var(--success);
+    font-weight: bold;
+}
+
+.skipped-tag {
+    color: var(--warning);
+    font-weight: bold;
+}
+
+.explanation-tag {
+    color: var(--primary);
+    font-weight: bold;
+}
+
+.review-explanation {
+    background: #ebf8ff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    margin-top: 6px;
+    border-left: 3px solid var(--primary);
+}
+
+.hidden { display: none !important; }

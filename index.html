@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pharmacy & Pharmacology Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <header>
+            <h1>Pharmacy Board Quiz</h1>
+            <div class="header-controls">
+                <div id="progress">Question 1 of 100</div>
+                <!-- NEW: Live Timer Display -->
+                <div id="quiz-timer" class="timer-display">Time: 00:00</div>
+            </div>
+        </header>
+
+        <div id="quiz-box">
+            <h2 id="question-text">Loading question...</h2>
+            <div id="options-container" class="options-grid"></div>
+            <div id="explanation-box" class="explanation hidden"></div>
+        </div>
+
+        <footer>
+            <div id="score-board">Score: <span id="score">0</span></div>
+            <div class="nav-controls">
+                <button id="back-btn" class="nav-btn hidden">Back</button>
+                <button id="skip-btn" class="nav-btn">Skip</button>
+                <button id="next-btn" class="nav-btn primary-btn hidden">Next</button>
+            </div>
+        </footer>
+
+        <!-- NEW: Skip All Action Bottom Area -->
+        <div id="bulk-actions" class="bulk-actions-container">
+            <hr class="section-divider">
+            <button id="skip-all-btn" class="skip-all-btn">⏩ Skip All Questions & View Results</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
